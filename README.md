@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center"><a href="https://www.canva.com/design/DAGKP3q2Myc/U4CWMkqNrjT4qwMnCVsBhA/view?utm_content=DAGKP3q2Myc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+">My Resume Link</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyuvraj01&label=Profile%20views&color=0e75b6&style=flat" alt="itsyuvraj01" /> </p>
 
